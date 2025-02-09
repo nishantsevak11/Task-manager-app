@@ -183,7 +183,7 @@ export default function NotesApp() {
         
       ):(
         //Main Content
-      <div className="flex  p-6 bg-white relative ">
+      <div className="flex  p-6 bg-white relative overflow-auto">
       <div className="w-full mx-auto">
         <h1 className="text-3xl font-bold mb-6">Tasks</h1>
 
